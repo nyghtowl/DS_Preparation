@@ -1,0 +1,10 @@
+type,name,owner,legs,age
+human,Bob,,,42
+pet,Basil,Bob,4,
+human,Charles,,,27
+human,Aaron,,,30
+
+pet,Billy,Bob,4,
+pet,Arty,aaron,4,
+pet,Chuck,Charles,2,
+
