@@ -1,10 +1,17 @@
 '''
 Python Beds Assessment
 
-Challenge to assess nursing home bed data and answer 4 questions
+Challenge to assess nursing home bed data and answer 5 questions
 
+The count of how many censuses were reported
+The earliest census date
+The latest census date
+The ten census dates with the highest number of available beds for that nursing home
+The ten census dates with the lowest number of available beds for that nursing home
 
 Assuming - Available Residential Beds encapsulates the Pediatric bed number
+
+Using JSON file run analysis on bed census
 
 Ways to improve 
     - avoid loading file more than once
