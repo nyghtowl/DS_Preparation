@@ -1,5 +1,0 @@
-type,name,owner,legs,age
-pet,Billy,Bob,4,
-pet,Arty,aaron,4,
-pet,Chuck,Charles,2,
-

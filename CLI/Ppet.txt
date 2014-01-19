@@ -1,4 +1,0 @@
-AARON,Arty,aaron,4,
-BOB,Basil,Bob,4,
-BOB,Billy,Bob,4,
-CHARLES,Chuck,Charles,2,
