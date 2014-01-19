@@ -14,9 +14,7 @@ Assuming - Available Residential Beds encapsulates the Pediatric bed number
 Using JSON file run analysis on bed census
 
 Ways to improve 
-    - avoid loading file more than once
-    - use subset while its open
-    - take in name of the facility and pull results
+    - don't use globals
     - zip together the labels and data points in dict for easier searching
 '''
 import sys
